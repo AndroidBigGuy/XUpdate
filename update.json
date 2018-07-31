@@ -1,5 +1,5 @@
 {
-  "update": "No",
+  "update": "Yes",
   "new_version": "3.0",
   "apk_file_url": "http://47.93.91.222/renshi/Public/download/ps.apk",
   "update_log": "1.新增日志功能\r\n2.新增管理员查看员工日志功能\r\n3.新增员工填写工作日志功能\r\n4.拆分为管理员版本和员工版本",
