@@ -1,8 +1,8 @@
 {
- "update": "Yes",
+ "update": "No",
   "new_version": "3.0",
   "apk_file_url": "http://47.93.91.222/renshi/Public/download/ps.apk",
-  "update_log": "1.新增工作日志功能\r\n2.版本更新功能\r\n3.新增员工填写工作日志功能\r\n4.拆分为管理员版本和员工版本",
+  "update_log": "1.新增工作日志功能\r\n2.优化更新功能\r\n3.优化权限功能\r\n4.拆分为管理员版本和员工版本",
   "target_size": "5.2MB",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": false
